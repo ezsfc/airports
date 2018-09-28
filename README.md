@@ -16,7 +16,7 @@ $ npm i -S ezsfc
 
 ## Usage
 
-```
+```javascript
 const airports = require('airports')
 
 airports.filterByKeyword('那覇')
